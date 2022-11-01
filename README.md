@@ -6,6 +6,5 @@
  
  ---
  
- ce dépôt de test a une licence CC-BY.
- 
+ bla bla bla 
  
